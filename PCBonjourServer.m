@@ -140,7 +140,6 @@
     
     // Handle Incoming and Response Data
     NSData *incomingData = [[notification userInfo] objectForKey: NSFileHandleNotificationDataItem];
-    NSLog(@"incoming: %@", [[NSString alloc] initWithData: incomingData encoding: NSUTF8StringEncoding]);
     
     if (delegate)
     {
