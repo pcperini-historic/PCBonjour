@@ -5,7 +5,7 @@ Declared In:      PCBonjour.h
 
 ##Overview##
 
-`PCBonjour` allows users to establish Bonjour services and client to communicate between hosts in a zero-conf environment. 
+`PCBonjour` allows users to establish Bonjour services and clients to communicate between hosts in a zero-conf environment. 
 
 
 
